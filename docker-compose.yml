@@ -1,0 +1,10 @@
+services:
+  wicked-vikings:
+    image: skepticsystems/midgard-vikings:latest
+    restart: unless-stopped
+    container_name: wicked-vikings
+    ports:
+      - 65115:65115
+      - 2356:80
+    volumes:
+      - ./app:/app

@@ -1,0 +1,8 @@
+docker build -t wicked-vikings .
+
+docker run -d `
+-v "C:\Users\jonas\Nextcloud\Documents\Skripts\HTML\Midgard Vikings\backend:/app" `
+-v "C:\Users\jonas\Nextcloud\Documents\Skripts\HTML\Midgard Vikings\webserver\nginx.conf:/etc/nginx/nginx.conf" `
+-p 80:80 `
+-p 65115:65115 `
+wicked-vikings
