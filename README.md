@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/skeptic-systems/clan-website/blob/master/assets/logo.png" width="550"/>
+  <img src="https://github.com/Skeptic-systems/Clan-website/blob/main/assets/logo.png" width="550"/>
 </p>
 <p align="center">
-  <img src="https://github.com/skeptic-systems/clan-website/blob/master/assets/mockup.png">
+  <img src="https://github.com/Skeptic-systems/Clan-website/blob/main/assets/mockup.png">
 </p>
 
 ## Demo
